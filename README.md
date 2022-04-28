@@ -7,3 +7,6 @@
 Nwe nwe's ideal man:
 
 <img src="buff dog.png" alt="dog" class="thumbnail" width="500" height="600">
+
+Nwe nwe:
+<img src="catto.jpg" alt="cat" width="120" height="70">
